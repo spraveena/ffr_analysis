@@ -94,4 +94,7 @@ python resp2stim_corr.py
 - Participant IDs are parsed from filenames using the pattern `P` followed by two digits (e.g. `P01`, `P12`)
 - The `Results/` directory is created automatically if it does not exist
 
+---
+
+If you have found these scripts to be beneficial for your analysis please consider citing this repository (:
 

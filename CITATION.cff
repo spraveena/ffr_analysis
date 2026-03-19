@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: FFR SRCFFT Analysis
+message: >-
+  If you have benefitted from using these scripts, please consider citing it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Praveena
+    family-names: Satkunarajah
+    email: psatkunaraja@mun.ca
+    affiliation: Memorial University of Newfoundland
+    orcid: 'https://orcid.org/0000-0002-3701-2238'
+  - given-names: Benjamin
+    family-names: Zendel
+    email: bzendel@mun.ca
+    affiliation: Memorial University of Newfoundland
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19112753
+keywords:
+  - ffr
+  - auditory eeg
+license: MIT
